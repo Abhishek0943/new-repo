@@ -1,0 +1,12 @@
+.search_paga {
+    max-width: 1300px;
+    margin: auto;
+    background-color: red;
+    display: flex;
+justify-content: flex-start;
+padding: 2px 20px ;
+}
+.Sleft{
+    background-color:aqua;
+    width: 250px;
+}

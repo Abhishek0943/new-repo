@@ -1,0 +1,17 @@
+.F_comp{
+    height: 100vh;
+    overflow: scroll;
+}
+.F_list{
+   
+    margin: 2px 5px ;
+}
+.F_top , .icon, .F_filter{
+    margin: 5px ;
+    padding: 5px;
+}
+.icon{
+    display: flex;
+    align-items: center;
+}
+

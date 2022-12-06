@@ -1,0 +1,23 @@
+.ifooter{
+    background-color: rgb(184, 184, 184);
+    
+    padding-top: 50px;
+}
+.foot_screen{
+    max-width: 1300px;
+    margin:auto;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    /* align-items: center; */
+    text-align: center;
+}
+.white:hover{
+    color: white;
+    cursor: pointer;
+}
+.fot_list{
+    min-width: 300px;
+    margin: 50px 10px;
+}

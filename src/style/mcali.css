@@ -1,0 +1,30 @@
+.dropdownli{
+    width: auto;
+    flex-direction: row;
+font-weight: normal;
+padding: 5px 10px;
+    /* border: 2px solid red; */
+}
+.dropdownli:hover{
+background-color:#2b4eff ;
+}
+.sub_dropdown{
+    position: relative;
+    left: 10px;
+    /* width: 100%; */
+    /* height: 7px; */
+}
+li{
+    list-style: none;
+}
+
+.sub_dropdown_con{
+    position: absolute;
+    top: -10px;
+   display: flex;
+   width: 350%;
+   flex-direction: row;
+/* height: 100%; */
+left: 250px;
+background: rgb(255, 255, 255);
+}

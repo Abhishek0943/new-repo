@@ -1,0 +1,54 @@
+.top_Section {
+    height: 500px;
+    width: 100%;
+overflow: hidden;
+}
+
+.gradiant {
+    height: 100%;
+    width: 100%;
+    position: relative;
+    background-image: linear-gradient(0deg, #00eeffa1 17%, #1337ff9f);
+    overflow-y: scroll;
+}
+.top_ul{
+    max-width: 1300px;
+    margin: auto;
+    display: flex;
+    background-color: white;
+    position: relative;
+    font-weight: 700;
+    top: 50px;
+    height: 60px;
+    align-items: center;
+    justify-content: space-around;
+}
+.top_ul>li{
+    width: 100%;
+    height: 100%;
+    background: white;
+    padding-top: 15px;
+    text-align: center;
+}
+.dropdownul{
+    position: absolute;
+    top: 55px;
+    background-color: white;
+    width: 250px;
+    text-align: start;
+   
+}
+/* .active{
+    display: bl;
+} */
+.inactive{
+    display: none;
+}
+.li:hover{
+    /* height: 100%; */
+   
+    background-color: #2b4eff;
+}
+.li>span:hover{
+
+}

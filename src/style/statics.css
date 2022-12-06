@@ -1,0 +1,53 @@
+.section2{
+    max-width: 1300px;
+    margin: 50px auto;
+    display: flex;
+   align-items: center;
+    flex-direction: column;
+}
+.S2_H5{
+    font-family: poopin_semi_bolt;
+}
+.haddng{
+    margin-top: 10px;
+    color: #010931;
+}
+img{
+    height: auto;
+}
+.S2_imgcon{
+    display: flex;
+    justify-content: center;
+    align-self: center;
+    height: 150px;
+    width: 150px;
+    overflow: hidden;
+    margin: 10px;
+}
+
+.one{
+    background-color: #2b4eff;
+    margin: 10px 20px;
+    padding: 20px 20px;
+    border-radius: 25px;
+    color: white;
+
+}
+.S2_li{
+    display: flex;
+  flex-direction: row;
+    flex-wrap: wrap;
+    margin-top: 10px;
+    justify-content:center ;
+    align-items: center;
+}
+.S2_li>div{
+    max-width: 250px;
+    min-width: 200px;
+    display: flex;
+    justify-content:center ;
+    align-items: center;
+    flex-direction: column;
+    text-align: center;
+} 
+
